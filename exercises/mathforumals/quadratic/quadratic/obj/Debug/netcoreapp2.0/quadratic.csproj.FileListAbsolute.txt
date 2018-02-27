@@ -1,0 +1,11 @@
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\mathforumals\quadratic\quadratic\bin\Debug\netcoreapp2.0\quadratic.deps.json
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\mathforumals\quadratic\quadratic\bin\Debug\netcoreapp2.0\quadratic.runtimeconfig.json
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\mathforumals\quadratic\quadratic\bin\Debug\netcoreapp2.0\quadratic.runtimeconfig.dev.json
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\mathforumals\quadratic\quadratic\bin\Debug\netcoreapp2.0\quadratic.dll
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\mathforumals\quadratic\quadratic\bin\Debug\netcoreapp2.0\quadratic.pdb
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\mathforumals\quadratic\quadratic\obj\Debug\netcoreapp2.0\quadratic.csprojResolveAssemblyReference.cache
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\mathforumals\quadratic\quadratic\obj\Debug\netcoreapp2.0\quadratic.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\mathforumals\quadratic\quadratic\obj\Debug\netcoreapp2.0\quadratic.AssemblyInfoInputs.cache
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\mathforumals\quadratic\quadratic\obj\Debug\netcoreapp2.0\quadratic.AssemblyInfo.cs
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\mathforumals\quadratic\quadratic\obj\Debug\netcoreapp2.0\quadratic.dll
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\mathforumals\quadratic\quadratic\obj\Debug\netcoreapp2.0\quadratic.pdb

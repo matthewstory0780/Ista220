@@ -1,0 +1,6 @@
+C:\Users\matth\OneDrive\Desktop\Ista220\labs\TestHello\TestHello\bin\Debug\TestHello.exe.config
+C:\Users\matth\OneDrive\Desktop\Ista220\labs\TestHello\TestHello\bin\Debug\TestHello.exe
+C:\Users\matth\OneDrive\Desktop\Ista220\labs\TestHello\TestHello\bin\Debug\TestHello.pdb
+C:\Users\matth\OneDrive\Desktop\Ista220\labs\TestHello\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Desktop\Ista220\labs\TestHello\TestHello\obj\Debug\TestHello.exe
+C:\Users\matth\OneDrive\Desktop\Ista220\labs\TestHello\TestHello\obj\Debug\TestHello.pdb

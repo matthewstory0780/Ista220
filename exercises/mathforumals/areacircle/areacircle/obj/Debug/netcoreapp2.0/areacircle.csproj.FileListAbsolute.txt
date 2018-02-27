@@ -1,0 +1,11 @@
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\mathforumals\areacircle\areacircle\bin\Debug\netcoreapp2.0\areacircle.deps.json
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\mathforumals\areacircle\areacircle\bin\Debug\netcoreapp2.0\areacircle.runtimeconfig.json
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\mathforumals\areacircle\areacircle\bin\Debug\netcoreapp2.0\areacircle.runtimeconfig.dev.json
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\mathforumals\areacircle\areacircle\bin\Debug\netcoreapp2.0\areacircle.dll
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\mathforumals\areacircle\areacircle\bin\Debug\netcoreapp2.0\areacircle.pdb
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\mathforumals\areacircle\areacircle\obj\Debug\netcoreapp2.0\areacircle.csprojResolveAssemblyReference.cache
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\mathforumals\areacircle\areacircle\obj\Debug\netcoreapp2.0\areacircle.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\mathforumals\areacircle\areacircle\obj\Debug\netcoreapp2.0\areacircle.AssemblyInfoInputs.cache
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\mathforumals\areacircle\areacircle\obj\Debug\netcoreapp2.0\areacircle.AssemblyInfo.cs
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\mathforumals\areacircle\areacircle\obj\Debug\netcoreapp2.0\areacircle.dll
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\mathforumals\areacircle\areacircle\obj\Debug\netcoreapp2.0\areacircle.pdb
