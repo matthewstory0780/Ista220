@@ -1,0 +1,10 @@
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\exercisesum\exercisesum\obj\Debug\netcoreapp2.0\exercisesum.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\exercisesum\exercisesum\obj\Debug\netcoreapp2.0\exercisesum.AssemblyInfoInputs.cache
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\exercisesum\exercisesum\obj\Debug\netcoreapp2.0\exercisesum.AssemblyInfo.cs
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\exercisesum\exercisesum\bin\Debug\netcoreapp2.0\exercisesum.deps.json
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\exercisesum\exercisesum\bin\Debug\netcoreapp2.0\exercisesum.runtimeconfig.json
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\exercisesum\exercisesum\bin\Debug\netcoreapp2.0\exercisesum.runtimeconfig.dev.json
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\exercisesum\exercisesum\bin\Debug\netcoreapp2.0\exercisesum.dll
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\exercisesum\exercisesum\bin\Debug\netcoreapp2.0\exercisesum.pdb
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\exercisesum\exercisesum\obj\Debug\netcoreapp2.0\exercisesum.dll
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\exercisesum\exercisesum\obj\Debug\netcoreapp2.0\exercisesum.pdb

@@ -1,0 +1,11 @@
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\excersise2b\excersise2b\obj\Debug\netcoreapp2.0\excersise2b.csprojResolveAssemblyReference.cache
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\excersise2b\excersise2b\obj\Debug\netcoreapp2.0\excersise2b.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\excersise2b\excersise2b\obj\Debug\netcoreapp2.0\excersise2b.AssemblyInfoInputs.cache
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\excersise2b\excersise2b\obj\Debug\netcoreapp2.0\excersise2b.AssemblyInfo.cs
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\excersise2b\excersise2b\bin\Debug\netcoreapp2.0\excersise2b.deps.json
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\excersise2b\excersise2b\bin\Debug\netcoreapp2.0\excersise2b.runtimeconfig.json
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\excersise2b\excersise2b\bin\Debug\netcoreapp2.0\excersise2b.runtimeconfig.dev.json
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\excersise2b\excersise2b\bin\Debug\netcoreapp2.0\excersise2b.dll
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\excersise2b\excersise2b\bin\Debug\netcoreapp2.0\excersise2b.pdb
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\excersise2b\excersise2b\obj\Debug\netcoreapp2.0\excersise2b.dll
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\excersise2b\excersise2b\obj\Debug\netcoreapp2.0\excersise2b.pdb
