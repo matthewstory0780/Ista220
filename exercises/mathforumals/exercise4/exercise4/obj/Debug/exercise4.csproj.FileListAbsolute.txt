@@ -1,0 +1,2 @@
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\exercise4\exercise4\obj\Debug\exercise4.csprojResolveAssemblyReference.cache
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\exercise4\exercise4\obj\Debug\exercise4.csproj.CoreCompileInputs.cache
