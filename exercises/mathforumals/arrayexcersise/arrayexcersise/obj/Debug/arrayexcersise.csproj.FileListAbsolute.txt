@@ -1,0 +1,7 @@
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\arrayexcersise\arrayexcersise\bin\Debug\arrayexcersise.exe.config
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\arrayexcersise\arrayexcersise\bin\Debug\arrayexcersise.exe
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\arrayexcersise\arrayexcersise\bin\Debug\arrayexcersise.pdb
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\arrayexcersise\arrayexcersise\obj\Debug\arrayexcersise.csprojResolveAssemblyReference.cache
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\arrayexcersise\arrayexcersise\obj\Debug\arrayexcersise.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\arrayexcersise\arrayexcersise\obj\Debug\arrayexcersise.exe
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\arrayexcersise\arrayexcersise\obj\Debug\arrayexcersise.pdb
