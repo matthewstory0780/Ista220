@@ -1,0 +1,7 @@
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\excersise4b\excersise4b\bin\Debug\excersise4b.exe.config
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\excersise4b\excersise4b\bin\Debug\excersise4b.exe
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\excersise4b\excersise4b\bin\Debug\excersise4b.pdb
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\excersise4b\excersise4b\obj\Debug\excersise4b.csprojResolveAssemblyReference.cache
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\excersise4b\excersise4b\obj\Debug\excersise4b.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\excersise4b\excersise4b\obj\Debug\excersise4b.exe
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\excersise4b\excersise4b\obj\Debug\excersise4b.pdb
