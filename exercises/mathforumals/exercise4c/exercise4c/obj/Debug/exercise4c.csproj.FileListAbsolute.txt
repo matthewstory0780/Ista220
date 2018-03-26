@@ -1,0 +1,7 @@
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\exercise4c\exercise4c\bin\Debug\exercise4c.exe.config
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\exercise4c\exercise4c\bin\Debug\exercise4c.exe
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\exercise4c\exercise4c\bin\Debug\exercise4c.pdb
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\exercise4c\exercise4c\obj\Debug\exercise4c.csprojResolveAssemblyReference.cache
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\exercise4c\exercise4c\obj\Debug\exercise4c.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\exercise4c\exercise4c\obj\Debug\exercise4c.exe
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\exercise4c\exercise4c\obj\Debug\exercise4c.pdb
