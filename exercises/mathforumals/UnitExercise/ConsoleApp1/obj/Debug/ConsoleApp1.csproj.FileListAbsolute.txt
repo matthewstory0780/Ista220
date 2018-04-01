@@ -1,0 +1,7 @@
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\matth\OneDrive\Desktop\Ista220\exercises\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
